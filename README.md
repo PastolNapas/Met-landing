@@ -1,8 +1,6 @@
 # The MET landing page
 Implement landing page according to [Figma design](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET?node-id=8590%3A29) - Use BEM and SCSS
 
-Check font styles. Use [Playfair Display](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET?node-id=8590%3A29)
-
 - The design 1440px
 - Desktop 1280px
 - Tablet 640px
