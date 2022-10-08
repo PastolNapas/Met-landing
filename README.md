@@ -13,4 +13,4 @@ Implement landing page according to [Figma design](https://www.figma.com/file/lS
 5. Implement `Contact us` block with the three cards.
 6. Implement footer.
 
-    - [DEMO LINK](https://https://pastolnapas.github.io/Met-landing/)
+    - [DEMO LINK](https://PastolNapas.github.io/Met-landing/)
