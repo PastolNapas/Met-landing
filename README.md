@@ -1,5 +1,6 @@
 # The MET landing page
 Implement landing page according to [Figma design](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET?node-id=8590%3A29) - Use BEM and SCSS.
+
 The landing is adaptive to different screen extensions, has a stylish design, contains a swiper with slides, burger menu, links, animations and a form to fill.
 
 - The design 1440px
