@@ -1,4 +1,4 @@
-# The MET landing page
+# Landing page for The Metropolitan Museum of Art
 Implement landing page according to [Figma design](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET?node-id=8590%3A29) - Use HTML5, SCSS, Flex-box, Grid, JavaScript, BEM, Gulp.
 
 The landing is adaptive to different screen extensions, has a stylish design, contains a swiper with slides, burger menu, links, animations and a form to fill.
